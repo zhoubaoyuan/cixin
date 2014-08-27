@@ -2,4 +2,4 @@ cixin
 =====
 
 zoken
-this's my githb,welcume!
+this's my github,welcume!
